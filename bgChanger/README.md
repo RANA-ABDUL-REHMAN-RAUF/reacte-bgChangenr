@@ -8,7 +8,7 @@ A sleek, responsive, and modern React application that allows users to change th
 
 ## 🔗 [Live Demo](https://bgchanger-aman.netlify.app/)
 
-![Project Preview](C:\Users\User.gemini\antigravity\brain\47659475-87f9-45b4-af4c-9347d5c15ed3\hero_background_changer_mockup_1773204918143.png)
+![Project Preview](./reference/preview.png)
 
 ---
 
